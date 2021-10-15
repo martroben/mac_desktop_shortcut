@@ -186,6 +186,7 @@ end createWebShortcut_Medieval
 
 
 # Set icon of the shortcut file to specified .png
+# h/t https://apple.stackexchange.com/questions/6901/how-can-i-change-a-file-or-folder-icon-using-the-terminal
 to setShortcutIcon(iconPath, shortcutPath)
 	set sharedWorkspace to NSWorkspace's sharedWorkspace()
 	set newImage to NSImage's alloc()
