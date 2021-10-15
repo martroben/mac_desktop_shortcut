@@ -4,7 +4,7 @@
 #######################################################################################################
 ##                                                                                                   ##
 ##  Script name: RMM_mac_desktop_shortcut_script.sh                                                  ##
-##  Purpose of script: create support portal shortcuts to user desktops, using N-able RMM            ##
+##  Purpose of script: create support portal shortcuts to mac user desktops, using N-able RMM        ##
 ##  Author: Mart Roben                                                                               ##
 ##  Date Created: 15. Oct 2021                                                                       ##
 ##                                                                                                   ##
